@@ -59,6 +59,7 @@ This library exports a component that can `memoize` the selected value (even an 
 
 # Relevant Links
 
+- [My Blogpost about the Implementation](https://medium.com/nerd-for-tech/reactjs-selective-context-consumer-939464e9ca02)
 - [Gist: Using the library](https://gist.github.com/arbaz52/db6910d3e80bc4cfc365298bc996924e)
 - [How to Create a React Library/Package](https://prateeksurana.me/blog/react-library-with-typescript/)
 - [Workaround for Invalid Hooks Call Warning/Error](https://github.com/facebook/react/issues/14257#issuecomment-809702813)

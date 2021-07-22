@@ -1,6 +1,6 @@
 {
   "name": "selective-context-consumer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Optimize consuming of React Context API",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
