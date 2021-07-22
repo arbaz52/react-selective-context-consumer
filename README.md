@@ -8,6 +8,8 @@ npm: `npm install selective-context-consumer`
 
 Only re-render if the selected values from the context update/change not when the context value changes.
 
+> Be sure to wrap the component which is using this library's component with React.memo.
+
 # Example
 
 [Gist: Using the library](https://gist.github.com/arbaz52/db6910d3e80bc4cfc365298bc996924e)
